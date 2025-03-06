@@ -21,7 +21,7 @@ const Navbar = () => {
           <a class="nav-link active" aria-current="page" href="#">ContactUs</a>
         </li>
       </ul>
-      <a class="link-light bg-success p-2" href="/login">Login </a>/<a class="link-light bg-info p-2" href="/register"> Register</a>
+     <a class="link-light bg-success p-2" href="/login">Login </a>/<a class="link-light bg-info p-2" href="/register"> Register</a>
     </div>
   </div>
 </nav>
