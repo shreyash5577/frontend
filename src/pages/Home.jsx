@@ -18,7 +18,7 @@ const Home = () => {
     <div class="card">
       <img src="/nonveg.jpg" class="card-img-top" alt="..."/ >
       <div class="card-body">
-        <h5 class="card-title">Non Veg</h5>
+        <h5 class="card-title">Non Veg Recipes</h5>
         <p class="card-text">Explore the hearty and savory world of non-vegetarian cuisine — where every bite is a burst of bold flavors. From tender, spice-marinated chicken and juicy grilled meats to succulent seafood and aromatic curries, non-veg dishes offer an irresistible blend of taste and tradition.</p>
       </div>
     </div>
